@@ -45,7 +45,7 @@ features:
   codemirror: true
   gravatar: true
 server:
-  hostname: pwill2.github.io
+  hostname: localhost
   port: 6067
   localOnly: false
   baseUrl: ''
@@ -62,7 +62,7 @@ pages:
     fromFilename: true
     fromContent: false
     asciiOnly: false
-    lowercase: false
+    lowercase: true
   itemsPerPage: 10
 customizations:
   sidebar: _sidebar.md
