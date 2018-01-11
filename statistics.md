@@ -1,0 +1,1 @@
+This page will be the home page for things learned about statistics.
