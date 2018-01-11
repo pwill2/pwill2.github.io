@@ -22,10 +22,10 @@ authentication:
     clientSecret: replace me with the real value
     redirectURL: ''
   github:
-    enabled: false
-    clientId: replace me with the real value
-    clientSecret: replace me with the real value
-    redirectURL: ''
+    enabled: true
+    clientId: 092a36b02a48dced7ec0
+    clientSecret: 418775051309114b03d810d60afd1516416bbef5
+    redirectURL: '/auth/github/callback'
   ldap:
     enabled: false
     url: 'ldap://example.org:389'
