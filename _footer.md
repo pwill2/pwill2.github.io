@@ -1,1 +1,1 @@
-(C) 2018 Parker A. Williams
+© 2018 Parker A. Williams
