@@ -45,7 +45,7 @@ features:
   codemirror: true
   gravatar: true
 server:
-  hostname: localhost
+  hostname: pwill2.github.io
   port: 6067
   localOnly: false
   baseUrl: ''
