@@ -1,1 +1,1 @@
-footer content
+(C) 2018 Parker A. Williams
