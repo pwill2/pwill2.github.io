@@ -3,7 +3,7 @@ application:
   title: 'PWiki'
   logo: ''
   favicon: ''
-  repository: '/Users/parkerwilliams/GitRepos/plain-text-table'
+  repository: 'https://github.com/pwill2/pwill2.github.io'
   docSubdir: ''
   remote: 'origin'
   pushInterval: 30
